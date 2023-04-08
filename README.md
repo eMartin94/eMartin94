@@ -1,19 +1,5 @@
 ### Hello everyone 👋
 <h1>I’m Martin</h1>
-  <div style={ display: 'flex', flex-direction: 'row'}>
-  <img src='https://www.thecinemaholic.com/wp-content/uploads/2016/09/download.jpeg' alt='' width=200 />
-  <img src='https://www.thecinemaholic.com/wp-content/uploads/2016/09/download.jpeg' alt='' width=200 />
-  <ul>
-  <li>Javascript</li>
-  <li>React</li>
-</ul>
-  </div>
-  <img src='https://www.thecinemaholic.com/wp-content/uploads/2016/09/download.jpeg' alt='' width=200 />
-  
-
-<h1>Other</h1>
-
-
 
 <!--
 **eMartin94/eMartin94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
