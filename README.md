@@ -1,10 +1,14 @@
 ### Hello everyone 👋
 <h1>I’m Martin</h1>
 <hr />
-<ul>
+<div>
+  <img src='https://www.thecinemaholic.com/wp-content/uploads/2016/09/download.jpeg' alt='' />
+  <ul>
   <li>Javascript</li>
   <li>React</li>
 </ul>
+</div>
+
 
 
 <!--
