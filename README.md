@@ -7,7 +7,7 @@
 - 💼 Actualmente trabajo como freelancer.
 - 🌱 Siempre estoy aprendiendo y mejorando mis habilidades en tecnologías como HTML, CSS, JavaScript, React, Tailwind y más.
 - 🚀 Disfruto resolviendo problemas y creando experiencias digitales atractivas.
-- 📫 Puedes contactarme a través deeduardo.martin688@gmail.com o [mi sitio web personal].
+- 📫 Puedes contactarme a través de eduardo.martin688@gmail.com.
 
 ## Mis Habilidades
 
