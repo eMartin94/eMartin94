@@ -32,9 +32,9 @@ La API "crepesamor" es una plataforma de comercio electrónico que ofrece un con
 - 📦 [Crepesamor](https://github.com/eMartin94/crepes-frontend.git):Eel frontend de "crepesamor" es la puerta de entrada a un mundo de crepes y productos deliciosos, donde los usuarios pueden disfrutar de una experiencia de compra sin problemas y tener un control completo sobre sus pedidos y su historial de compras.
 - 📦 [Depahouse](https://github.com/eMartin94/ProyectoAppDepaHouse.git): Depahouse es la aplicación esencial para cualquier persona interesada en obtener un terreno, casa o departamento, ofreciendo una plataforma completa y fácil de usar para encontrar, investigar y comprar propiedades en Android.
 
-## Estadísticas de GitHub
+[## Estadísticas de GitHub]: #
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=eMartin94&show_icons=true&theme=radical)
+<!-- ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=eMartin94&show_icons=true&theme=radical) -->
 
 ## Contacto
 
